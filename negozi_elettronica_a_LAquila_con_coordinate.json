@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Active Network S.p.a.",
+        "category": "Computer e accessori",
+        "address": "Via Amiternum, 30, 67100 L'Aquila (AQ)",
+        "phones": [
+            "0862 1965164",
+            "0862 316331"
+        ],
+        "latitude": 42.3574,
+        "longitude": 13.376
+    },
+    {
+        "name": "Adp Computer Store",
+        "category": "Computer e accessori",
+        "address": "Via Giuseppe Saragat, 67100 L'Aquila (AQ)",
+        "phones": [
+            "0862 311583",
+            "347 3404227",
+            "0862 1960577"
+        ],
+        "latitude": 42.3495,
+        "longitude": 13.3995
+    },
+    {
+        "name": "Ciabattoni Luigi",
+        "category": "Elettrodomestici",
+        "address": "Strada Statale 17 Bis, Gignano, 67100 L'Aquila (AQ)",
+        "phones": [
+            "085 8001986"
+        ],
+        "latitude": 42.3632,
+        "longitude": 13.4234
+    },
+    {
+        "name": "Dream S.r.l.",
+        "category": "Computer e accessori",
+        "address": "Via Corrado IV, 28, 67100 L'Aquila (AQ)",
+        "phones": [
+            "0862 293145"
+        ],
+        "latitude": 42.357,
+        "longitude": 13.3775
+    },
+    {
+        "name": "Euronics c/o Globo Center",
+        "category": "Elettrodomestici",
+        "address": "Via Onorevole Giuseppe Saragat, 67100 L'Aquila (AQ)",
+        "phones": [
+            "0862 080261"
+        ],
+        "latitude": 42.3495,
+        "longitude": 13.3995
+    },
+    {
+        "name": "Mondo Informatico",
+        "category": "Computer e accessori",
+        "address": "Viale Croce Rossa, 24, 67100 L'Aquila (AQ)",
+        "phones": [
+            "393 9904632"
+        ],
+        "latitude": 42.3587,
+        "longitude": 13.3779
+    },
+    {
+        "name": "Trony",
+        "category": "Elettrodomestici",
+        "address": "Via Francesco Savini, 67100 L'Aquila (AQ)",
+        "phones": [
+            "0862 401652"
+        ],
+        "latitude": 42.3546,
+        "longitude": 13.399
+    }
+]
