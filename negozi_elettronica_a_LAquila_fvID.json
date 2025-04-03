@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Euronics",
+      "address": "Via Onorevole Giuseppe Saragat, 67100 L'Aquila (AQ)",
+      "phone": "0862 080261",
+      "website": "https://www.euronics.it/",
+      "offersRepairs": false,
+      "id" : 3424654,
+      "latitude": 42.3495,
+      "longitude": 13.3995
+    },
+    {
+      "name": "Mondo Informatico",
+      "address": "Viale Croce Rossa, 24, 67100 L'Aquila (AQ)",
+      "phone": "393 9904632",
+      "website": "https://www.facebook.com/mondoinformatico.laquila/?locale2=it_IT&_rdr",
+      "offersRepairs": true,
+      "id" : 34234254,
+      "latitude": 42.3587,
+      "longitude": 13.3779
+    },
+    {
+      "name": "Trony",
+      "address": "Via Francesco Savini, 67100 L'Aquila (AQ)",
+      "phone": "0862 401652",
+      "website": "https://www.trony.it/",
+      "offersRepairs": false,
+      "id" : 342453654,
+      "latitude": 42.3546,
+      "longitude": 13.399
+    },
+    {
+      "name": "Planet Computer Superstore",
+      "address": "Via Francesco Savini, 67100 L'Aquila (AQ)",
+      "phone": "0862 401652",
+      "website": "https://www.facebook.com/planetcomputersuperstore#",
+      "offersRepairs": true,
+      "id" : 34243654,
+      "latitude": 42.3546,
+      "longitude": 13.399
+    },
+    {
+      "name": "Mediaworld",
+      "address": "Centro comm. L'Aquilone - Loc, Via Campo di Pile, 67100 L'Aquila AQ",
+      "phone": "0294751717",
+      "website": "https://www.mediaworld.it/",
+      "offersRepairs": false,
+      "id" : 13424654,
+      "latitude": 42.35386,
+      "longitude": 13.41525
+    },
+    {
+      "name": "Chiocciolandia S. C. S. di Arianna Giuliani",
+      "address": "Via Alessandro Manzoni, 11, 67100 L'Aquila AQ",
+      "phone": "0862362813",
+      "website": "https://www.chiocciolandia.it/",
+      "offersRepairs": true,
+      "id" : 312424654,
+      "latitude": 42.3600,
+      "longitude": 13.4000
+    },
+    {
+      "name": "Mr. Robot",
+      "address": "Strada Statale 17, n34/M, 67100 L'Aquila AQ",
+      "phone": "3456025907",
+      "website": "https://mrrobotriparazioni.it/",
+      "offersRepairs": true,
+      "id" : 213424654,
+      "latitude": 42.3550,
+      "longitude": 13.4100
+    },
+    {
+      "name": "Digital",
+      "address": "c/o Galleria Meridiana, Via Rocco Carabba, snc, 67100 L'Aquila AQ",
+      "phone": "3401959123",
+      "website": "https://www.facebook.com/digitalsnc/?locale=it_IT",
+      "offersRepairs": true,
+      "id" : 23423424654,
+      "latitude": 42.3580,
+      "longitude": 13.3880
+    },
+    {
+      "name": "ADP Computer Store",
+      "address": "Centro Commerciale Amiternum, Via Enrico Fermi, 67100 L'Aquila AQ",
+      "phone": "0862311583",
+      "website": "https://www.facebook.com/adpstore/?locale=it_IT",
+      "offersRepairs": true,
+      "id" : 31223424654,
+      "latitude": 42.3495,
+      "longitude": 13.3995
+    },
+    {
+      "name": "Centroriparazioni",
+      "address": "Agorà, SS80, 80, 67100 L'Aquila AQ",
+      "phone": "0862312284",
+      "website": "https://www.centroriparazioni.com/",
+      "offersRepairs": true,
+      "id" : 3424654534,
+      "latitude": 42.3500,
+      "longitude": 13.3950
+    },
+    {
+      "name": "SOS 23",
+      "address": "Corso Vittorio Emanuele, 67100 L'Aquila AQ",
+      "phone": "3937232323",
+      "website": "https://www.facebook.com/S.O.Sventi3/?locale=it_IT",
+      "offersRepairs": true,
+      "id" : 3424653232224,
+      "latitude": 42.3620,
+      "longitude": 13.3900
+    },
+    {
+      "name": "Dottor Tech",
+      "address": "Via Colombo Andreassi, 5, 67100 L'Aquila AQ",
+      "phone": "3509045866",
+      "website": "https://www.dottortech.it/home",
+      "offersRepairs": true,
+      "id" : 342465312314,
+      "latitude": 42.3520,
+      "longitude": 13.3970
+    }
+  ]
