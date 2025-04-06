@@ -5,7 +5,7 @@
       "phone": "0862 080261",
       "website": "https://www.euronics.it/",
       "offersRepairs": false,
-      "id" : 3654,
+      "id" : 1,
       "latitude": 42.3495,
       "longitude": 13.3995
     },
@@ -15,7 +15,7 @@
       "phone": "393 9904632",
       "website": "https://www.facebook.com/mondoinformatico.laquila/?locale2=it_IT&_rdr",
       "offersRepairs": true,
-      "id" : 54,
+      "id" : 2,
       "latitude": 42.3587,
       "longitude": 13.3779
     },
@@ -25,7 +25,7 @@
       "phone": "0862 401652",
       "website": "https://www.trony.it/",
       "offersRepairs": false,
-      "id" : 344,
+      "id" : 3,
       "latitude": 42.3546,
       "longitude": 13.399
     },
@@ -35,7 +35,7 @@
       "phone": "0862 401652",
       "website": "https://www.facebook.com/planetcomputersuperstore#",
       "offersRepairs": true,
-      "id" : 3424,
+      "id" : 4,
       "latitude": 42.3546,
       "longitude": 13.399
     },
@@ -45,7 +45,7 @@
       "phone": "0294751717",
       "website": "https://www.mediaworld.it/",
       "offersRepairs": false,
-      "id" : 1344,
+      "id" : 5,
       "latitude": 42.35386,
       "longitude": 13.41525
     },
@@ -55,7 +55,7 @@
       "phone": "0862362813",
       "website": "https://www.chiocciolandia.it/",
       "offersRepairs": true,
-      "id" : 32,
+      "id" : 6,
       "latitude": 42.3600,
       "longitude": 13.4000
     },
@@ -65,7 +65,7 @@
       "phone": "3456025907",
       "website": "https://mrrobotriparazioni.it/",
       "offersRepairs": true,
-      "id" : 213,
+      "id" : 7,
       "latitude": 42.3550,
       "longitude": 13.4100
     },
@@ -75,7 +75,7 @@
       "phone": "3401959123",
       "website": "https://www.facebook.com/digitalsnc/?locale=it_IT",
       "offersRepairs": true,
-      "id" : 2342,
+      "id" : 8,
       "latitude": 42.3580,
       "longitude": 13.3880
     },
@@ -85,7 +85,7 @@
       "phone": "0862311583",
       "website": "https://www.facebook.com/adpstore/?locale=it_IT",
       "offersRepairs": true,
-      "id" : 3122,
+      "id" : 9,
       "latitude": 42.3495,
       "longitude": 13.3995
     },
@@ -95,7 +95,7 @@
       "phone": "0862312284",
       "website": "https://www.centroriparazioni.com/",
       "offersRepairs": true,
-      "id" : 3424,
+      "id" : 10,
       "latitude": 42.3500,
       "longitude": 13.3950
     },
@@ -105,7 +105,7 @@
       "phone": "3937232323",
       "website": "https://www.facebook.com/S.O.Sventi3/?locale=it_IT",
       "offersRepairs": true,
-      "id" : 342,
+      "id" : 11,
       "latitude": 42.3620,
       "longitude": 13.3900
     },
@@ -115,7 +115,7 @@
       "phone": "3509045866",
       "website": "https://www.dottortech.it/home",
       "offersRepairs": true,
-      "id" : 212,
+      "id" : 12,
       "latitude": 42.3520,
       "longitude": 13.3970
     }
